@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://hu2.io/',
+        destination: 'https://hu2.io/?a=qC7cK7pP',
         permanent: true,
       },
     ]
